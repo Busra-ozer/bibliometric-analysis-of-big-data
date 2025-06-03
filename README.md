@@ -8,7 +8,7 @@ This repository contains a bibliometric analysis project on the applications of 
 
 - **Topic:** Explainable Artificial Intelligence (XAI) in Cybersecurity
 - **Method:** Bibliometric analysis
-- **Tools Used:** VOSviewer, Bibliometrix (R), Scopus / Web of Science / Dimensions data export
+- **Tools Used:** VOSviewer, Web of Science.
 - **Goal:** To uncover patterns in the scientific landscape of XAI applications for cybersecurity
 
 ---
