@@ -28,4 +28,4 @@ This repository contains a bibliometric analysis project on the applications of 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/bibliometric-analysis-of-big-data.git
+   git clone https://github.com/Busra-ozer/bibliometric-analysis-of-big-data.git
